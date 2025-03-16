@@ -1,0 +1,12 @@
+grpcio==1.71.0
+importlib-metadata==8.6.1
+ipykernel==6.29.5
+jaraco.collections==5.1.0
+lz4==4.4.3
+openai==1.66.3
+pickleshare==0.7.5
+pinecone==6.0.2
+pip-chill==1.0.3
+protoc-gen-openapiv2==0.0.1
+python-dotenv==1.0.1
+tomli==2.0.1

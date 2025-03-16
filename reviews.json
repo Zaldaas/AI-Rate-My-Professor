@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Thompson",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "An engaging professor who makes complex concepts understandable."
+      },
+      {
+        "professor": "Dr. Benjamin Clark",
+        "subject": "History",
+        "stars": 4,
+        "review": "Offers in-depth lectures and thoughtful discussions."
+      },
+      {
+        "professor": "Dr. Carla Rodriguez",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Challenging courses, but her passion for science shines through."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant and approachable, always ready with practical examples."
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Inspires creativity and encourages critical thinking in every lecture."
+      },
+      {
+        "professor": "Dr. Frank Martin",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Covers complex topics effectively, though sometimes moves too fast."
+      },
+      {
+        "professor": "Prof. Grace Kim",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Practical approach with clear, engaging explanations."
+      },
+      {
+        "professor": "Dr. Henry Wilson",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "Very knowledgeable but could improve on lecture organization."
+      },
+      {
+        "professor": "Dr. Irene Patel",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Highly engaging with real-world applications that make learning fun."
+      },
+      {
+        "professor": "Prof. Jason Green",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Encourages lively debates and deep critical thinking."
+      },
+      {
+        "professor": "Dr. Karen Wright",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Inspires passion for global affairs with insightful analysis."
+      },
+      {
+        "professor": "Prof. Liam Brown",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Technically proficient but occasionally struggles with communication clarity."
+      },
+      {
+        "professor": "Dr. Mia Campbell",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Offers fresh perspectives and detailed analyses of complex texts."
+      },
+      {
+        "professor": "Prof. Noah Adams",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Lectures can be overly theoretical and lack practical application."
+      },
+      {
+        "professor": "Dr. Olivia Hernandez",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "An excellent mentor who is supportive and highly knowledgeable."
+      },
+      {
+        "professor": "Dr. Patrick Murphy",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Provides detailed explanations and engaging laboratory sessions."
+      },
+      {
+        "professor": "Prof. Quinn Nelson",
+        "subject": "History",
+        "stars": 3,
+        "review": "Interesting storytelling, though some lectures could be clearer."
+      },
+      {
+        "professor": "Dr. Rachel Evans",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Expert in her field with a knack for making economics accessible."
+      },
+      {
+        "professor": "Prof. Steven Young",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Encourages hands-on learning and creative problem-solving."
+      },
+      {
+        "professor": "Dr. Tina Foster",
+        "subject": "Art",
+        "stars": 5,
+        "review": "Inspires creativity and critical analysis in every class session."
+      }
+    ]
+  }
+  
