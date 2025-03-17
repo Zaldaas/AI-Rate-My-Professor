@@ -17,19 +17,8 @@ Deployed on AWS EC2 at: http://3.15.143.97/
 
 ## Technologies Used 💻
 
-### Frontend
-- **Next.js**: React framework for production-grade web applications
-- **React**: JavaScript library for building user interfaces
-- **Material UI**: Modern and responsive UI component library
-
-### Backend & AI
-- **OpenAI GPT-4o-mini**: State-of-the-art language model for natural conversation
-- **Pinecone**: Vector database for efficient similarity search and RAG implementation
-
-### Data Management
-- **JSON Database**: Structured storage of professor reviews and information
-- **Vector Embeddings**: Efficient storage and retrieval of semantic information
-
-### Development Tools
-- **Amazon Web Services**: Deployed on AWS EC2 instance
-- **Git**: Version control system
+- **Frontend**: React, Next.js, Material UI
+- **Backend**: Next.js, API Routes, Pinecone
+- **AI**: OpenAI GPT-4o-mini
+- **Data Management**: JSON Database, Vector Embeddings
+- **Development Tools**: AWS, Git
