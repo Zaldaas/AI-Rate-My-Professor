@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Rate My Professor 🎓
 
-## Getting Started
+An intelligent AI-powered chatbot that helps students find detailed information about professors, their teaching styles, and ratings using advanced AI and RAG techniques.
 
-First, run the development server:
+## Live Demo 🚀
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Deployed on AWS EC2 at: http://3.15.143.97/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Chatbot Capabilities 🤖
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Detailed Professor Insights**: Provides analysis of teaching methods and classroom environment
+- **Personalized Recommendations**: Suggests professors based on student preferences and learning styles
+- **Data-Backed Answers**: Utilizes RAG technology to provide accurate, data-supported responses
+- **Review Summarization**: Intelligently summarizes student reviews to give comprehensive feedback
+- **Context-Aware Responses**: Maintains conversation context for more meaningful interactions
+- **Natural Language Understanding**: Processes and responds to queries in a conversational manner
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used 💻
 
-## Learn More
+### Frontend
+- **Next.js**: React framework for production-grade web applications
+- **React**: JavaScript library for building user interfaces
+- **Material UI**: Modern and responsive UI component library
 
-To learn more about Next.js, take a look at the following resources:
+### Backend & AI
+- **OpenAI GPT-4o-mini**: State-of-the-art language model for natural conversation
+- **Pinecone**: Vector database for efficient similarity search and RAG implementation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Data Management
+- **JSON Database**: Structured storage of professor reviews and information
+- **Vector Embeddings**: Efficient storage and retrieval of semantic information
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Development Tools
+- **Amazon Web Services**: Deployed on AWS EC2 instance
+- **Git**: Version control system
