@@ -4,7 +4,7 @@ An intelligent AI-powered chatbot that helps students find detailed information 
 
 ## Live Demo 🚀
 
-Deployed on AWS EC2 at: http://3.15.143.97/
+Deployed on AWS EC2 at: http://3.137.167.114/
 
 ## Chatbot Capabilities 🤖
 
