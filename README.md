@@ -2,10 +2,6 @@
 
 An intelligent AI-powered chatbot that helps students find detailed information about professors, their teaching styles, and ratings using advanced AI and RAG techniques.
 
-## Live Demo 🚀
-
-Deployed on AWS EC2 at: http://3.137.167.114/
-
 ## Chatbot Capabilities 🤖
 
 - **Detailed Professor Insights**: Provides analysis of teaching methods and classroom environment
